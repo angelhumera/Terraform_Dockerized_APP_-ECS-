@@ -20,6 +20,7 @@ Version-locked providers with .terraform.lock.hcl
 Clean GitHub structure (no large files, no state files)
 
 🔧 How to Deploy
+
 1️⃣ Initialize Terraform
 terraform init
 
